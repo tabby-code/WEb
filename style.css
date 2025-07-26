@@ -2,8 +2,9 @@
    src:  url(audio/BitcountPropSingle-VariableFont_CRSV\,ELSH\,ELXP\,slnt\,wght.ttf);
    font-family: Bitcount;
 }
-h1{
+header{
     font-family: 'arial';
+    border-style: solid;
 }
 p{
     font-family: 'Bitcount', arial;
