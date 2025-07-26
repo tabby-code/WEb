@@ -1,0 +1,11 @@
+@font-face{
+   src:  url(audio/BitcountPropSingle-VariableFont_CRSV\,ELSH\,ELXP\,slnt\,wght.ttf);
+   font-family: Bitcount;
+}
+h1{
+    font-family: 'arial';
+}
+p{
+    font-family: 'Bitcount', arial;
+    font: size 1.5em;
+}
