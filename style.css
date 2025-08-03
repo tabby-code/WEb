@@ -1,12 +1,3 @@
-@font-face{
-   src:  url(audio/BitcountPropSingle-VariableFont_CRSV\,ELSH\,ELXP\,slnt\,wght.ttf);
-   font-family: Bitcount;
-}
-header{
-    font-family: 'arial';
-    border-style: solid;
-}
-p{
-    font-family: 'Bitcount', arial;
-    font: size 1.5em;
+#image1{
+    float:left;
 }
